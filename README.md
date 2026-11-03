@@ -31,8 +31,6 @@ Cloud & Tools
 
 Getting Started
 1. Clone the repository
-git clone
-cd CloudTrack
 
 3. Install frontend dependencies
 cd frontend
