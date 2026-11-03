@@ -35,12 +35,12 @@ Getting Started
 git clone https://github.com/YOUR_USERNAME/CloudTrack.git
 cd CloudTrack
 
-2. Install frontend dependencies
+3. Install frontend dependencies
 cd frontend
 npm install
 npm run dev
 
-3. Install backend dependencies
+4. Install backend dependencies
 Open another terminal:
 cd backend
 npm install
