@@ -1,4 +1,3 @@
-CloudTrack
 CloudTrack is a cloud-based issue tracking application designed to help users create, manage, and monitor issues through a simple dashboard.
 The project combines a React frontend with a Node.js and Express backend, with AWS DynamoDB integration explored for data storage.
 
